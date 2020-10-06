@@ -1,8 +1,6 @@
 ### README.md
 
-- Latitude & Longitude Conversion
--    DMS → Degree
--    Degree → DMS
+- Latitude & Longitude Conversion (DMS → Degree, Degree → DMS)
   
 - Distance Calculation between 2-coordinates# GPS-coordinate
 
