@@ -1,0 +1,12 @@
+D:\vscode\LAT_LON_distance\LAT_LON_distance\bin\Debug\LAT_LON_distance.exe.config
+D:\vscode\LAT_LON_distance\LAT_LON_distance\bin\Debug\LAT_LON_distance.exe
+D:\vscode\LAT_LON_distance\LAT_LON_distance\bin\Debug\LAT_LON_distance.pdb
+D:\vscode\LAT_LON_distance\LAT_LON_distance\bin\Debug\LAT_LON_distance.xml
+D:\vscode\LAT_LON_distance\LAT_LON_distance\obj\Debug\LAT_LON_distance.vbprojAssemblyReference.cache
+D:\vscode\LAT_LON_distance\LAT_LON_distance\obj\Debug\LAT_LON_distance.Form1.resources
+D:\vscode\LAT_LON_distance\LAT_LON_distance\obj\Debug\LAT_LON_distance.Resources.resources
+D:\vscode\LAT_LON_distance\LAT_LON_distance\obj\Debug\LAT_LON_distance.vbproj.GenerateResource.cache
+D:\vscode\LAT_LON_distance\LAT_LON_distance\obj\Debug\LAT_LON_distance.vbproj.CoreCompileInputs.cache
+D:\vscode\LAT_LON_distance\LAT_LON_distance\obj\Debug\LAT_LON_distance.exe
+D:\vscode\LAT_LON_distance\LAT_LON_distance\obj\Debug\LAT_LON_distance.xml
+D:\vscode\LAT_LON_distance\LAT_LON_distance\obj\Debug\LAT_LON_distance.pdb
